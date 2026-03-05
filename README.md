@@ -16,10 +16,15 @@
 
 🛠️ 技术栈
 后端: PHP 7.4+
+
 前端: HTML5, CSS3, JavaScript (ES6+)
+
 数据库: MySQL 5.7+
+
 服务器: Apache 2.4+ / Nginx
+
 架构: B/S (Browser/Server) 架构
+
 🚀 快速开始
 1. 环境准备
 确保你的系统已安装以下软件：
