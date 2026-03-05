@@ -41,21 +41,7 @@ $password = 'your_password'; // 你的数据库密码
 打开浏览器，访问 http://localhost/[你的项目文件夹名]/login.php，即可开始使用。
 新用户请先点击 “立即注册” 创建账号。
 登录成功后，系统会自动跳转到首页，你可以开始探索音乐的世界了！
-jijian-yinfu/
-├── assets/              # 静态资源
-│   ├── audio/           # 音频文件
-│   ├── css/             # 样式文件
-│   │   └── style.css
-│   ├── images/          # 图片资源
-│   └── js/              # JavaScript 脚本
-│       └── main.js
-├── config/              # 配置文件
-│   └── db.php           # 数据库配置
-├── index.php            # 首页
-├── login.php            # 登录页
-├── register.php         # 注册页
-├── playlist.php         # 歌单管理页
-├── database.sql         # 数据库初始化脚本
-└── README.md            # 项目说明
+<img width="713" height="383" alt="image" src="https://github.com/user-attachments/assets/58b67b4f-90f1-489f-8f71-c1d36d305622" />
+
 <img width="1695" height="1302" alt="image" src="https://github.com/user-attachments/assets/00e07d05-6053-487e-a546-6ee47fefb2ad" />
 
